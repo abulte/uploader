@@ -1,0 +1,7 @@
+- serve Flask app through uwsgi
+- basic upload form on / through Flask
+- encrypt passwords
+- useful response after upload OK (path to published files?)
+- test w/ multiple uploaded files
+- test resume upload
+- plug a sftp endpoint?
